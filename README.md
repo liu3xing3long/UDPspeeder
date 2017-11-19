@@ -78,7 +78,7 @@ Assume your server ip is 44.55.66.77, you have a service listening on udp port 7
 ./speederv2 -c -l0.0.0.0:3333  -r44.55.66.77:4096 -f20:10 -k "passwd"
 ```
 
-Now connecting to UDP port 3333 at the client side is equivalent to connecting to port 7777 at the server side, and the connection is boosted by UDPspeeder.
+Now connecting to UDP port 3333 at the client side is equivalent to connecting to port 7777 at the server side, and the connection has been boosted by UDPspeeder.
 
 ##### Note
 
