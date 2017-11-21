@@ -265,6 +265,10 @@ https://github.com/wangyu-/UDPspeeder/wiki/win10系统UDPspeeder-OpenVPN的完�
 
 https://github.com/wangyu-/UDPspeeder/wiki/用树莓派做路由器，搭建透明代理，加速游戏主机的网络
 
+#### UDPspeeder+OpenVPN运行在虚拟机中，加速windows和局域网内其他主机的网络
+
+https://github.com/wangyu-/tinyFecVPN/wiki/tinyFecVPN运行在虚拟机中，加速windows和局域网内其他主机的网络
+
 
 # 编译教程
 暂时先参考udp2raw的这篇教程，几乎一样的过程。
